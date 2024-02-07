@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>Hey !</h1>
+      <h1>Should be used as a farcaster frame ;-)</h1>
     </>
   );
 }
